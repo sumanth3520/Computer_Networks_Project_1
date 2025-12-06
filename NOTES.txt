@@ -1,0 +1,21 @@
+Ping:
+
+Measures round-trip time from the source to the target, providing an overview of latency between two endpoints.
+
+Offers a high-level view of latency without information on intermediate network segments.
+
+Ideal for quick connectivity checks and general latency monitoring (e.g., verifying if a website is reachable).
+
+
+Traceroute:
+
+Used for diagnosing network issues and understanding the path of data packets (e.g., pinpointing slow or unresponsive segments).
+
+Provides granular details about each hop along the route, helping to identify specific segments or routers causing problems.
+
+Useful for detailed network path analysis and diagnosing issues at specific network segments.
+
+
+Summary:
+
+After comparing the two programs that analyze network traffic using traceroute and ping, I observed that ping is best suited for general latency checks and quick connectivity tests, whereas traceroute excels in detailed network path analysis and troubleshooting specific network issues.
